@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "CustomerManagement",
+            "request": "launch",
+            "mainClass": "CustomerManagement",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "Ex1",
+            "request": "launch",
+            "mainClass": "Ex1",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "Ex2",
+            "request": "launch",
+            "mainClass": "Ex2",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "Ex3",
+            "request": "launch",
+            "mainClass": "Ex3",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "MainBox",
+            "request": "launch",
+            "mainClass": "MainBox",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "MainCustomer",
+            "request": "launch",
+            "mainClass": "MainCustomer",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "MainProgram",
+            "request": "launch",
+            "mainClass": "MainProgram",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "MazeTester",
+            "request": "launch",
+            "mainClass": "MazeTester",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "PostFixEvalDemo",
+            "request": "launch",
+            "mainClass": "PostFixEvalDemo",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "ReverseQueue",
+            "request": "launch",
+            "mainClass": "Queue.ReverseQueue",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "slidingWindow",
+            "request": "launch",
+            "mainClass": "Queue.slidingWindow",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "superPrime",
+            "request": "launch",
+            "mainClass": "Queue.superPrime",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "RadixSort",
+            "request": "launch",
+            "mainClass": "RadixSort",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "DomainChecker",
+            "request": "launch",
+            "mainClass": "Sets_and_Maps.DomainChecker",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "ProductSales",
+            "request": "launch",
+            "mainClass": "Sets_and_Maps.ProductSales",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "UserManagement",
+            "request": "launch",
+            "mainClass": "Sets_and_Maps.UserManagement",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "SortPhoneList",
+            "request": "launch",
+            "mainClass": "SortPhoneList",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "Test01",
+            "request": "launch",
+            "mainClass": "Test01",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "TestProgram",
+            "request": "launch",
+            "mainClass": "TestProgram",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "MainProgram(1)",
+            "request": "launch",
+            "mainClass": "Trees.MainProgram",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        },
+        {
+            "type": "java",
+            "name": "characterCountInStack",
+            "request": "launch",
+            "mainClass": "characterCountInStack",
+            "projectName": "DataAlgorithmCode_5c0b65f9"
+        }
+    ]
+}
